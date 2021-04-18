@@ -34,7 +34,7 @@
 </div>
 
 ### Spotify Playing 🎧
-<br />
+
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ptech Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
