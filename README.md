@@ -6,13 +6,14 @@
 🏆🥇I love **competitive programming**. I am **3-star⭐️** coder at Codechef.<br />
 📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 🙌 I am **sub 50 CUBER**, a **philatelist** and **numismatist** 💷 💰.<br />
-
+## GitHub Stats <br />
 
 [![Badge](https://cp-logo.vercel.app/codechef/kothariji)](https://www.codechef.com/users/kothariji)
 [![Badge](https://cp-logo.vercel.app/codeforces/kothariji)](https://codeforces.com/profile/kothariji)
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/12383316/dhruv-kothari) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kothariji"/>|
+|
+<img src="https://github-readme-stats.vercel.app/api?username=ptechofficial&&show_icons=true&title_color=ff9f1c&icon_color=ffbf69&text_color=37323e&bg_color=ffffff" />|
 |---|---|
  
  ---
